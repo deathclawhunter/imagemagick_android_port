@@ -1,0 +1,377 @@
+filters/MagickCore_libMagickCore_7_Q16HDRI_la-analyze.lo: \
+ filters/analyze.c \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/stdio.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/sys/cdefs.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/android/api-level.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/sys/types.h \
+ /Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stddef.h \
+ /Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/_cprolog.h \
+ /Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/config/features.h \
+ /Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/_stlport_version.h \
+ /Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/config/user_config.h \
+ /Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/config/compat.h \
+ /Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/config/host.h \
+ /Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/config/_system.h \
+ /Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/config/_android.h \
+ /Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/config/_gcc.h \
+ /Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h \
+ /Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h \
+ /Volumes/Elements/Library/Android/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h \
+ /Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/_epilog.h \
+ /Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/stdint.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/sys/_types.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/machine/_types.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/linux/posix_types.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/linux/stddef.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/linux/compiler.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/asm/posix_types.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/asm/types.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/linux/types.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/machine/kernel.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h \
+ /Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stdarg.h \
+ /Volumes/Elements/Library/Android/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/stdlib.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/string.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/malloc.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/alloca.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/strings.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/memory.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/time.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/sys/time.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/linux/time.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/asm/siginfo.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/asm-generic/siginfo.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/assert.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/math.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/limits.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/sys/limits.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/linux/limits.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/machine/internal_types.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/machine/limits.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/sys/syslimits.h \
+ /Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/asm/page.h \
+ MagickCore/MagickCore.h MagickCore/magick-config.h \
+ MagickCore/magick-baseconfig.h MagickCore/method-attribute.h \
+ MagickCore/magick-type.h MagickCore/animate.h MagickCore/annotate.h \
+ MagickCore/draw.h MagickCore/geometry.h MagickCore/image.h \
+ MagickCore/color.h MagickCore/pixel.h MagickCore/colorspace.h \
+ MagickCore/exception.h MagickCore/semaphore.h MagickCore/blob.h \
+ MagickCore/stream.h MagickCore/cache-view.h MagickCore/composite.h \
+ MagickCore/compress.h MagickCore/effect.h MagickCore/morphology.h \
+ MagickCore/layer.h MagickCore/locale_.h MagickCore/linked-list.h \
+ MagickCore/monitor.h MagickCore/profile.h MagickCore/string_.h \
+ MagickCore/quantum.h MagickCore/resample.h MagickCore/resize.h \
+ MagickCore/timer.h MagickCore/type.h MagickCore/artifact.h \
+ MagickCore/attribute.h MagickCore/cache.h MagickCore/channel.h \
+ MagickCore/cipher.h MagickCore/client.h MagickCore/coder.h \
+ MagickCore/colormap.h MagickCore/compare.h MagickCore/configure.h \
+ MagickCore/constitute.h MagickCore/decorate.h MagickCore/delegate.h \
+ MagickCore/deprecate.h MagickCore/display.h MagickCore/distort.h \
+ MagickCore/distribute-cache.h MagickCore/enhance.h MagickCore/feature.h \
+ MagickCore/fourier.h MagickCore/fx.h MagickCore/gem.h \
+ MagickCore/random_.h MagickCore/histogram.h MagickCore/identify.h \
+ MagickCore/image-view.h MagickCore/list.h MagickCore/log.h \
+ MagickCore/magic.h MagickCore/magick.h MagickCore/matrix.h \
+ MagickCore/memory_.h MagickCore/module.h MagickCore/version.h \
+ MagickCore/mime.h MagickCore/montage.h MagickCore/opencl.h \
+ MagickCore/option.h MagickCore/paint.h MagickCore/pixel-accessor.h \
+ MagickCore/policy.h MagickCore/prepress.h MagickCore/property.h \
+ MagickCore/quantize.h MagickCore/registry.h MagickCore/resource_.h \
+ MagickCore/segment.h MagickCore/shear.h MagickCore/signature.h \
+ MagickCore/splay-tree.h MagickCore/statistic.h MagickCore/token.h \
+ MagickCore/transform.h MagickCore/threshold.h MagickCore/utility.h \
+ MagickCore/vision.h MagickCore/xml-tree.h MagickCore/xwindow.h
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/stdio.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/sys/cdefs.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/android/api-level.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/sys/types.h:
+
+/Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stddef.h:
+
+/Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/_cprolog.h:
+
+/Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/config/features.h:
+
+/Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/_stlport_version.h:
+
+/Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/config/user_config.h:
+
+/Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/config/compat.h:
+
+/Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/config/host.h:
+
+/Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/config/_system.h:
+
+/Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/config/_android.h:
+
+/Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/config/_gcc.h:
+
+/Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h:
+
+/Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h:
+
+/Volumes/Elements/Library/Android/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h:
+
+/Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/_epilog.h:
+
+/Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/stdint.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/sys/_types.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/machine/_types.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/linux/posix_types.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/linux/stddef.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/linux/compiler.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/asm/posix_types.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/asm/types.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/linux/types.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/machine/kernel.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h:
+
+/Volumes/Elements/Library/Android/ndk-bundle//sources/cxx-stl/stlport/stlport/stdarg.h:
+
+/Volumes/Elements/Library/Android/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/stdlib.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/string.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/malloc.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/alloca.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/strings.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/memory.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/time.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/sys/time.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/linux/time.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/asm/siginfo.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/asm-generic/siginfo.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/assert.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/math.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/limits.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/sys/limits.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/linux/limits.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/machine/internal_types.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/machine/limits.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/sys/syslimits.h:
+
+/Volumes/Elements/Library/Android//ndk-bundle/platforms/android-9/arch-arm/usr/include/asm/page.h:
+
+MagickCore/MagickCore.h:
+
+MagickCore/magick-config.h:
+
+MagickCore/magick-baseconfig.h:
+
+MagickCore/method-attribute.h:
+
+MagickCore/magick-type.h:
+
+MagickCore/animate.h:
+
+MagickCore/annotate.h:
+
+MagickCore/draw.h:
+
+MagickCore/geometry.h:
+
+MagickCore/image.h:
+
+MagickCore/color.h:
+
+MagickCore/pixel.h:
+
+MagickCore/colorspace.h:
+
+MagickCore/exception.h:
+
+MagickCore/semaphore.h:
+
+MagickCore/blob.h:
+
+MagickCore/stream.h:
+
+MagickCore/cache-view.h:
+
+MagickCore/composite.h:
+
+MagickCore/compress.h:
+
+MagickCore/effect.h:
+
+MagickCore/morphology.h:
+
+MagickCore/layer.h:
+
+MagickCore/locale_.h:
+
+MagickCore/linked-list.h:
+
+MagickCore/monitor.h:
+
+MagickCore/profile.h:
+
+MagickCore/string_.h:
+
+MagickCore/quantum.h:
+
+MagickCore/resample.h:
+
+MagickCore/resize.h:
+
+MagickCore/timer.h:
+
+MagickCore/type.h:
+
+MagickCore/artifact.h:
+
+MagickCore/attribute.h:
+
+MagickCore/cache.h:
+
+MagickCore/channel.h:
+
+MagickCore/cipher.h:
+
+MagickCore/client.h:
+
+MagickCore/coder.h:
+
+MagickCore/colormap.h:
+
+MagickCore/compare.h:
+
+MagickCore/configure.h:
+
+MagickCore/constitute.h:
+
+MagickCore/decorate.h:
+
+MagickCore/delegate.h:
+
+MagickCore/deprecate.h:
+
+MagickCore/display.h:
+
+MagickCore/distort.h:
+
+MagickCore/distribute-cache.h:
+
+MagickCore/enhance.h:
+
+MagickCore/feature.h:
+
+MagickCore/fourier.h:
+
+MagickCore/fx.h:
+
+MagickCore/gem.h:
+
+MagickCore/random_.h:
+
+MagickCore/histogram.h:
+
+MagickCore/identify.h:
+
+MagickCore/image-view.h:
+
+MagickCore/list.h:
+
+MagickCore/log.h:
+
+MagickCore/magic.h:
+
+MagickCore/magick.h:
+
+MagickCore/matrix.h:
+
+MagickCore/memory_.h:
+
+MagickCore/module.h:
+
+MagickCore/version.h:
+
+MagickCore/mime.h:
+
+MagickCore/montage.h:
+
+MagickCore/opencl.h:
+
+MagickCore/option.h:
+
+MagickCore/paint.h:
+
+MagickCore/pixel-accessor.h:
+
+MagickCore/policy.h:
+
+MagickCore/prepress.h:
+
+MagickCore/property.h:
+
+MagickCore/quantize.h:
+
+MagickCore/registry.h:
+
+MagickCore/resource_.h:
+
+MagickCore/segment.h:
+
+MagickCore/shear.h:
+
+MagickCore/signature.h:
+
+MagickCore/splay-tree.h:
+
+MagickCore/statistic.h:
+
+MagickCore/token.h:
+
+MagickCore/transform.h:
+
+MagickCore/threshold.h:
+
+MagickCore/utility.h:
+
+MagickCore/vision.h:
+
+MagickCore/xml-tree.h:
+
+MagickCore/xwindow.h:

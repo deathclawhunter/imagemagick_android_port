@@ -1,0 +1,22 @@
+# Test environment
+top_srcdir='/Volumes/Elements/proj/ImageMagick'
+top_builddir='/Volumes/Elements/proj/ImageMagick'
+
+set -a
+COMPARE="/Volumes/Elements/proj/ImageMagick/utilities/magick compare"
+COMPOSITE="/Volumes/Elements/proj/ImageMagick/utilities/magick composite"
+CONJURE="/Volumes/Elements/proj/ImageMagick/utilities/magick conjure"
+CONVERT="/Volumes/Elements/proj/ImageMagick/utilities/magick convert"
+DISPLAY="/Volumes/Elements/proj/ImageMagick/utilities/magick display"
+IDENTIFY="/Volumes/Elements/proj/ImageMagick/utilities/magick identify"
+MAGICK="/Volumes/Elements/proj/ImageMagick/utilities/magick"
+MONTAGE="/Volumes/Elements/proj/ImageMagick/utilities/magick montage"
+VALIDATE="/Volumes/Elements/proj/ImageMagick/tests/validate"
+DRAWTEST="/Volumes/Elements/proj/ImageMagick/tests/drawtest"
+WANDTEST="/Volumes/Elements/proj/ImageMagick/tests/wandtest"
+LD_LIBRARY_PATH="/Volumes/Elements/proj/ImageMagick/magick/.libs:${LD_LIBRARY_PATH}"
+MAGICK_CODER_MODULE_PATH="/Volumes/Elements/proj/ImageMagick/coders"
+MAGICK_CONFIGURE_PATH="/Volumes/Elements/proj/ImageMagick/config:/Volumes/Elements/proj/ImageMagick/config"
+MAGICK_FILTER_MODULE_PATH="/Volumes/Elements/proj/ImageMagick/filters"
+PATH="/Volumes/Elements/proj/ImageMagick/utilities:/Volumes/Elements/proj/ImageMagick/tests:${PATH}"
+set +a
